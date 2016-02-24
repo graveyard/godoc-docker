@@ -5,8 +5,8 @@ env:
   - GITHUB_TOKEN
 expose:
 - name: http
-  port: 80
-  bind: 8080
+  port: 8080
+  bind: 80
   health_check:
     type: http
     path: /github.com/Clever/optimus
