@@ -5,7 +5,7 @@ env:
   - GITHUB_TOKEN
 expose:
 - name: http
-  port: 8080
+  port: 80
   bind: 80
   health_check:
     type: http
