@@ -1,4 +1,4 @@
-# standalone-godoc
+# godoc-docker
 Docker image holding a standalone godoc server
 
 This is published as [clever/godoc-docker](https://hub.docker.com/r/clever/godoc-docker/) in the DockerHub registry.
