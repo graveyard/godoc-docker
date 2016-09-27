@@ -23,5 +23,6 @@ publish:
     username: $$docker_username
     when:
       branch: master
+  report_card: {}
 script:
 - echo "do nothing"
